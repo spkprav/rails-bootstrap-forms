@@ -173,7 +173,7 @@ module BootstrapForm
     end
 
     def error_class
-      "has-error"
+      "has-danger"
     end
 
     def control_specific_class(method)
